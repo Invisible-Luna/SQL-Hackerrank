@@ -1,0 +1,3 @@
+/* Change to MySQL from DB2 to avoid errors */
+
+SELECT * FROM CITY WHERE ID = 1661
